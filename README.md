@@ -3,6 +3,7 @@ A LLM+ChatGPT real-time interview answering application. Listens to the system's
 
 ### Video Demo
 
-To watch the video demonstration, please click on the thumbnail below:
+Click on tumbnail to watch demo.
 
-[![Video Demo]](video.mp4)
+[![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif)](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.mp4)
+
