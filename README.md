@@ -1,5 +1,5 @@
 # InterviewGPT
-A Audio Transcribe + ChatGPT real-time interview answering application. Listens to the system's output voice and responds in real time.
+A real-time Audio Transcription + ChatGPT interview answering application. Listens to the system's output voice and responds in real time.
 
 ### Video Demo
 
