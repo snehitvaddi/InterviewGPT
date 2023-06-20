@@ -5,5 +5,5 @@ A real-time Audio Transcription + ChatGPT interview answering application. Liste
 
 Click on thumbnail to watch demo.
 
-[![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif)](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.mp4)
+[![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif)](https://youtu.be/26__rpg5AvA)
 
