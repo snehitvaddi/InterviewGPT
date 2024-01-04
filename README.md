@@ -3,7 +3,7 @@ A real-time Audio Transcription + ChatGPT interview answering application. Liste
 
 ### Video Demo
 
-Click on thumbnail to watch demo.
+Click on thumbnail to watch demo. 
 
 [![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif)](https://youtu.be/26__rpg5AvA)
 
