@@ -1,9 +1,17 @@
-# InterviewGPT
-A real-time Audio Transcription + ChatGPT interview answering application. Listens to the system's output voice and responds in real time.
+## Introduction
+**InterviewGPT**: A real-time Audio Transcription + ChatGPT interview answering application. Listens to the system's output voice and responds in real time.
 
-### Video Demo
+## Video Demo
+Click on the thumbnail to watch the demo.<br>
+<a href="https://youtu.be/26__rpg5AvA"><img src="https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif" width="480" alt="Demo"></a>
 
-Click on thumbnail to watch demo. 
+## Technologies Used
+- **Speech to Text**: Utilizes AssemblyAI.
+- **NLP and Response Generation**: OpenAI's ChatGPT.
+- **Web Framework**: Streamlit.
+- **Security**: Streamlit Authenticator and data obscuring strategies to protect user privacy.
 
-[![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif)](https://youtu.be/26__rpg5AvA)
-
+## Features
+- Real-time transcription and response generation with advanced language models.
+- A user-friendly interface for seamless interaction and deployment.
+- Enhanced security measures for user authentication and data privacy.
