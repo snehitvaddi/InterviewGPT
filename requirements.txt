@@ -1,0 +1,11 @@
+websockets
+base64
+asyncio
+json
+pyaudio
+pandas
+plotly-express
+streamlit
+streamlit-authenticator
+spacy
+groq
