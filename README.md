@@ -3,7 +3,9 @@
 
 ## Video Demo
 Click on the thumbnail to watch the demo.<br>
-<a href="https://youtu.be/26__rpg5AvA"><img src="https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif" width="480" alt="Demo"></a>
+[![Demo](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.gif?raw=true)](https://github.com/snehitvaddi/InterviewGPT/blob/main/ApplicationDemo.mp4.mp4?raw=true)
+
+
 
 ## Technologies Used
 - **Speech to Text**: Utilizes AssemblyAI.
