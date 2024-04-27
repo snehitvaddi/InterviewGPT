@@ -16,6 +16,8 @@ pip install -r requirements.txt
 export GROQ_API_KEY='Your_Groq_API_Key'
 export ASSEMBLY_AI_API_KEY='Your_AssemblyAI_API_Key'
 ```
+## Application
+*At the moment, the authentication process is quite straightforward. Please enter your details in the generate_keys.py file. This file is intended to be on the server.*
 ```
 streamlit run app.py
 ```
