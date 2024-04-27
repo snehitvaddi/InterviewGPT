@@ -1,0 +1,3 @@
+Hi, I'm [REDACTED], [REDACTED], from [REDACTED]. I have a data engineering interview. Need your help in [REDACTED] preparation. Can you assist?
+Give me three important SQl questions, just the question I will answer and you give me the feedback.
+Okay, I am answering the first question. [REDACTED] join comments records with matching keys in both tables while outer join includes all records matched or unmatched.
